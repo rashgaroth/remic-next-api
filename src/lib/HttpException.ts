@@ -1,5 +1,3 @@
-/* eslint-disable functional/no-this-expression */
-/* eslint-disable functional/no-class */
 import httpCodes from '../utils/statusCode';
 
 class HttpException extends Error {
